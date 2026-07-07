@@ -17,15 +17,25 @@
 | **neovim** | Текстовый редактор |
 
 ---
+💻 HotKeys
 
-|Сочетания | клавишь |
-| :--- | :--- |
-| **Терминал** | Win + Enter |
-| **Меню приложений/rofi** | Win + D |
-| **polybar** | Win + P |
-| **Переключение между раб.столами** | Win + 1-6 |
-| **dmenu** | Win + X |
-| **firefox** | Win + Shift + B |
+    Open the terminal - super + enter
+    Set a random wallpaper - super + w
+    Switch the layout - shift + alt
+    Open the application menu - super + d
+    Derive a random verse from the Bible - super + shift + q
+    Open the browser in incognito mode - super + shift + i
+    Recognize the color on the screen - super + shift + x
+    Lock the screen - super + shift + l
+    Open the console calendar - super + shift + k
+    Launch Telegram - super + shift + t
+    Close the window that is in focus - super + c
+    Take a screenshot - print
+    Restart bspwm - ctrl + shift + r
+    Switch to another desktop - super + 1/6
+    Move the window to another desktop - super + shift + 1/6
+    Switch the window to floating mode - super + space
+
 
 ---
 ## 🖼️ Скриншот
