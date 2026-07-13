@@ -16,6 +16,8 @@
 | **kitty** / **alacritty** | Терминалы |
 | **neovim** | Текстовый редактор |
 
+## Hotkey
+super = Win
 | Что делает | Комбинация |
 | :--- | :--- |
 |Open the terminal | super + enter|
